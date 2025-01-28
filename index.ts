@@ -1,4 +1,4 @@
-≈/**
+/**
  * Function that greets a person
  * @param firstname Tobias-André
  * @param lastname Hole
